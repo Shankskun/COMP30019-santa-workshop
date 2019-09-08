@@ -1,4 +1,4 @@
-# santa-workshop COMP30008-2018
+# santa-workshop COMP30019-2018
 
 Game created with the unity engine, similar to the concept of "Overcooked". Elf 18 needs to keep Santa happy, and wrap every gift before Christmas :open_mouth:!
 He needs to first pick up the gift item and put it in boxes; then wrap it before it reaches the Sleigh. :santa: would be Furious if he don't see the results.
