@@ -5,7 +5,7 @@ He needs to first pick up the gift item and put it in boxes; then wrap it before
 
 Not to mention a few more surpises in the game :open_mouth:. Just watch the trailer below!  
 
-![YouTube Trailer](https://youtu.be/ye6nr7gZGes)  
+[YouTube Trailer](https://youtu.be/ye6nr7gZGes)  
 
 ![Start Screen](https://github.com/Shankskun/santa-workshop/blob/master/images/startscreen.png)  
 
